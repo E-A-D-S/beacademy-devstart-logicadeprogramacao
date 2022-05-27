@@ -1,0 +1,21 @@
+Algoritmo pneu furado
+
+- ir para acostamento se possível
+- ligar o pisca alerta do carro
+- sair do carro
+- ir no porta malas pegar kit sinalização
+- sinalizar a via com kit sinalização
+- pegar chave de roda no porta malas
+- frouxar os parafusos do pneu furado
+- pegar o macaco no porta malas e levantar o carro
+- tirar o pneu furado
+- pegar o pneu step no porta malas
+- colocar o pneu step no local que estava o pneu furado
+- soltar o macaco e baixar o carro 
+- pegar chave de roda e apertar os parafusos do pneu step
+- guardar pneu furado, macaco e chave no porta malas
+- retirar o kit sinalização da rua e guardar no porta malas
+- entrar no carro 
+- desligar pisca alerta
+
+
